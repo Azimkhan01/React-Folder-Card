@@ -1,7 +1,9 @@
-Here’s a **clean and proper `README.md` snippet** for your project that includes:
+Sure Azim! Here's the **complete and clean `README.md` content** with:
 
-1. 📂 A neat **Markdown tree structure**.
-2. 🧠 A code block showing the **JS object** representation.
+* 📁 A **properly formatted tree structure** (displayed correctly).
+* 🧠 The **JavaScript `Structure` object** below it.
+
+You can copy-paste this directly into your `README.md`:
 
 ---
 
@@ -128,4 +130,4 @@ export const Structure = [
 
 ---
 
-Let me know if you want a script that auto-generates this Markdown tree from the JS structure!
+Let me know if you want me to build a Node.js/CLI script to generate this tree from the object automatically.
