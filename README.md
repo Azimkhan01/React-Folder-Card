@@ -1,9 +1,3 @@
-Sure Azim! Here's the **complete and clean `README.md` content** with:
-
-* 📁 A **properly formatted tree structure** (displayed correctly).
-* 🧠 The **JavaScript `Structure` object** below it.
-
-You can copy-paste this directly into your `README.md`:
 
 ---
 
@@ -129,5 +123,9 @@ export const Structure = [
 ````
 
 ---
+## Example
+https://github.com/user-attachments/assets/6247a686-9731-4c86-aa9b-ee97b1e5357f
+## Example
+![image](https://github.com/user-attachments/assets/220a19bd-d765-4bf4-aac2-f24534ac9969)
 
-Let me know if you want me to build a Node.js/CLI script to generate this tree from the object automatically.
+
