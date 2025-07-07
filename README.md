@@ -13,27 +13,27 @@ You can copy-paste this directly into your `README.md`:
 ```
 
 ├── app.js                                                                                                                                                                                                                 
-├── package.json
-├── controller
-│   ├── handleAdmin.js
-│   ├── cloud.js
-│   ├── auth.js
-│   └── Auth
-│       ├── handleIncoming.js
-│       ├── cloudIncoming.js
-│       ├── authOutGoing.js
-│       └── Auth
-│           ├── handleIncoming.js
-│           ├── cloudIncoming.js
-│           ├── authOutGoing.js
-│           └── Auth
-│               ├── handleIncoming.js
-│               ├── cloudIncoming.js
-│               └── authOutGoing.js
-├── database
-│   ├── userModel.js
-│   ├── productModel.js
-│   └── categoryModel.js
+├── package.json                                                                                                                                                                                                           
+├── controller                                                                                                                                                                                                             
+│   ├── handleAdmin.js                                                                                                                                                                                                     
+│   ├── cloud.js                                                                                                                                                                                                           
+│   ├── auth.js                                                                                                                                                                                                            
+│   └── Auth                                                                                                                                                                                                               
+│       ├── handleIncoming.js                                                                                                                                                                                              
+│       ├── cloudIncoming.js                                                                                                                                                                                               
+│       ├── authOutGoing.js                                                                                                                                                                                                
+│       └── Auth                                                                                                                                                                                                           
+│           ├── handleIncoming.js                                                                                                                                                                                          
+│           ├── cloudIncoming.js                                                                                                                                                                                           
+│           ├── authOutGoing.js                                                                                                                                                                                            
+│           └── Auth                                                                                                                                                                                                       
+│               ├── handleIncoming.js                                                                                                                                                                                      
+│               ├── cloudIncoming.js                                                                                                                                                                                       
+│               └── authOutGoing.js                                                                                                                                                                                        
+├── database                                                                                                                                                                                                               
+│   ├── userModel.js                                                                                                                                                                                                       
+│   ├── productModel.js                                                                                                                                                                                                    
+│   └── categoryModel.js                                                                                                                                                                                                   
 
 ````
 
