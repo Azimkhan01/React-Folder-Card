@@ -1,7 +1,8 @@
 ## Example
 https://github.com/user-attachments/assets/6247a686-9731-4c86-aa9b-ee97b1e5357f
 ## Example
-![image](https://github.com/user-attachments/assets/baa06a69-b712-4d7b-b305-fd5c02b536f1)
+![image](https://github.com/user-attachments/assets/e2c58503-c3f5-4198-b9a8-a33710719aa8)
+
 ---
 
 ```markdown
