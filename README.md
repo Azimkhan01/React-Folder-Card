@@ -133,7 +133,7 @@ https://github.com/user-attachments/assets/6247a686-9731-4c86-aa9b-ee97b1e5357f
 step you need to know ->
   1. First in src see the data.js in /src/app/folder/data.js the structure of you folder  it sholud be in that form 
   2. Second if you want  you can directly copy the function from page.js in that copy the FolderStructure FileCard and FolderCard only other is not that much usefull
-  3. as you can see inh page.js you can change the icon as of now i have use react-icon i suggest to use icon from there only and props that you have to use is fileIcon FolderIcon Structure as well
+  3. As you can see in the page.js you can change the icon as of now i have use react-icon i suggest to use icon from there only and props that you have to use is fileIcon FolderIcon Structure as well
 
 ### FolderStructure Props
 
